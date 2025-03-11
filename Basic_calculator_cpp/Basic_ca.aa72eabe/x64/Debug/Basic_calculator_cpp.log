@@ -1,2 +1,2 @@
-﻿  Basic_calculator_cpp.cpp
-  Basic_calculator_cpp.vcxproj -> C:\Users\menna\CPP\Basic_calculator_cpp\x64\Debug\Basic_calculator_cpp.exe
+﻿Calculator variation.obj : error LNK2005: main already defined in Basic_calculator_cpp.obj
+C:\Users\menna\OneDrive\Documents\Learning projects\Basic_calculator_cpp\x64\Debug\Basic_calculator_cpp.exe : fatal error LNK1169: one or more multiply defined symbols found
